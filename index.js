@@ -8,7 +8,7 @@ function addingEventListener() {
   input.addEventListener('click', clickAlert)
 }
 
-addEventListener()
+addingEventListener()
 
 
 
